@@ -1,0 +1,11 @@
+C:\Users\Alois\source\repos\MovieDemo\MovieDemo.WebApi\bin\Debug\netcoreapp2.0\MovieDemo.WebApi.deps.json
+C:\Users\Alois\source\repos\MovieDemo\MovieDemo.WebApi\bin\Debug\netcoreapp2.0\MovieDemo.WebApi.runtimeconfig.json
+C:\Users\Alois\source\repos\MovieDemo\MovieDemo.WebApi\bin\Debug\netcoreapp2.0\MovieDemo.WebApi.runtimeconfig.dev.json
+C:\Users\Alois\source\repos\MovieDemo\MovieDemo.WebApi\bin\Debug\netcoreapp2.0\MovieDemo.WebApi.dll
+C:\Users\Alois\source\repos\MovieDemo\MovieDemo.WebApi\bin\Debug\netcoreapp2.0\MovieDemo.WebApi.pdb
+C:\Users\Alois\source\repos\MovieDemo\MovieDemo.WebApi\obj\Debug\netcoreapp2.0\MovieDemo.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Alois\source\repos\MovieDemo\MovieDemo.WebApi\obj\Debug\netcoreapp2.0\MovieDemo.WebApi.AssemblyInfoInputs.cache
+C:\Users\Alois\source\repos\MovieDemo\MovieDemo.WebApi\obj\Debug\netcoreapp2.0\MovieDemo.WebApi.AssemblyInfo.cs
+C:\Users\Alois\source\repos\MovieDemo\MovieDemo.WebApi\obj\Debug\netcoreapp2.0\MovieDemo.WebApi.dll
+C:\Users\Alois\source\repos\MovieDemo\MovieDemo.WebApi\obj\Debug\netcoreapp2.0\MovieDemo.WebApi.pdb
+C:\Users\Alois\source\repos\MovieDemo\MovieDemo.WebApi\obj\Debug\netcoreapp2.0\MovieDemo.WebApi.csprojResolveAssemblyReference.cache
