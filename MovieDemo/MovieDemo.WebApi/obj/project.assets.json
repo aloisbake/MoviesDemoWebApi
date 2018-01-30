@@ -13125,11 +13125,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alois\\source\\repos\\MovieDemo\\MovieDemo.WebApi\\MovieDemo.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\Alois\\source\\repos\\MovieDemo\\MoviesDemoWebApi\\MovieDemo\\MovieDemo.WebApi\\MovieDemo.WebApi.csproj",
       "projectName": "MovieDemo.WebApi",
-      "projectPath": "C:\\Users\\Alois\\source\\repos\\MovieDemo\\MovieDemo.WebApi\\MovieDemo.WebApi.csproj",
+      "projectPath": "C:\\Users\\Alois\\source\\repos\\MovieDemo\\MoviesDemoWebApi\\MovieDemo\\MovieDemo.WebApi\\MovieDemo.WebApi.csproj",
       "packagesPath": "C:\\Users\\Alois\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alois\\source\\repos\\MovieDemo\\MovieDemo.WebApi\\obj\\",
+      "outputPath": "C:\\Users\\Alois\\source\\repos\\MovieDemo\\MoviesDemoWebApi\\MovieDemo\\MovieDemo.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
